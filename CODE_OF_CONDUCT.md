@@ -8,8 +8,8 @@
 
 Банковские выписки, номера счетов и другие личные данные не выкладывайте в issue даже свои: заменяйте их вымышленными.
 
-Если вы столкнулись с нарушением, напишите на gregreshetnyak52@gmail.com. Сообщения рассматриваются конфиденциально. Нарушающий комментарий могут скрыть, а автора — заблокировать.
+Если вы столкнулись с нарушением, сообщите приватно через вкладку **Security → Report a vulnerability** нужного репозитория или через [жалобу в GitHub](https://docs.github.com/en/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam). Сообщения рассматриваются конфиденциально. Нарушающий комментарий могут скрыть, а автора — заблокировать.
 
 ---
 
-**In English.** Be respectful: discuss code and decisions, not people. Harassment, discrimination, doxxing and spam are not allowed. Report problems to gregreshetnyak52@gmail.com; reports are handled confidentially, and violations may lead to removed comments or a block.
+**In English.** Be respectful: discuss code and decisions, not people. Harassment, discrimination, doxxing and spam are not allowed. Report problems privately via **Security → Report a vulnerability** in the repository or via GitHub's abuse report; reports are handled confidentially, and violations may lead to removed comments or a block.
